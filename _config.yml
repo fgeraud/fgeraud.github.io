@@ -87,13 +87,6 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-colors:
-    gradient_left: "#FF009D"
-    gradient_right: "#FF009D"
-    header: "#fff"
-    android_theme: "#000" # this default to gradient_color
-    link: "#1e6bb8" # this default to gradient_color
-    section_title: "#155799" # this default to gradient_color
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
